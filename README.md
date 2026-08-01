@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Michael.  I am trying to break out into the coding world.  I have been learning and using Go, Python, JavaScript, Typescript, and Java.
+Doing what I can to learn and get better.  I'm always looking for a project to work on to sharpen my skills.
 <!--
 **mtgrinstead/mtgrinstead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
